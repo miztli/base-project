@@ -1,0 +1,6 @@
+.metadata/
+.project
+.settings/
+RemoteSystemsTempFiles/
+common/target/
+template-webapp/target/
